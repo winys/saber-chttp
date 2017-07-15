@@ -1,5 +1,5 @@
 {
-	"name":"saber_chttp",
+	"name":"saber-chttp",
 	"icon": "logo.png",
 	"version" : "1.0.0",
 	"descript" : "模拟发送报文测试器",
